@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DnsServerCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "admin\r\nadmin"
+    }
+  }
+}
