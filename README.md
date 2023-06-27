@@ -1,5 +1,12 @@
 # DnsServer CLI Tool
 A command line application to interact with your [DnsServer](https://github.com/Web7Foundation/DnsServer) instance.
+
+## Features
+- View zones
+- Add zone
+- Delete zone
+- View records in zone
+  
 ## Setup
 ### Windows
 - Clone the repo
@@ -15,8 +22,4 @@ A command line application to interact with your [DnsServer](https://github.com/
 dnsserver <username> <password>
 ```
 
-## Features
-- view zones
-- Add zone
-- Delete zone
-- View records in zone 
+> Note: Use the 'help' command to list all the commands that are available
